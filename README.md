@@ -2,6 +2,10 @@
 
 A premium plugin that simplifies the checkout process by helping customers enter their addresses using Google Places API. This plugin enhances the user experience, reduces errors, and speeds up the checkout process.
 
+## Current Version: 1.0.2
+
+[View Changelog](CHANGELOG.md)
+
 ## Features
 
 - **Address Autocomplete**: Use Google Places API to suggest addresses as customers type
